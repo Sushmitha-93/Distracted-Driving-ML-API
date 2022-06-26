@@ -1,0 +1,9 @@
+numpy
+tensorflow
+h5
+opencv-python
+h5py
+fastapi
+python-multipart
+uvicorn
+pydantic
